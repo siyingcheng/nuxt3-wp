@@ -4,16 +4,16 @@ We are going to build a Nuxt3 blog with WordPress as a backend. We will use the 
 
 ## Topics
 
-- [] Brief introduction to Nuxt3
-- [] Brief introduction to WordPress Rest API
-- [] Create a Nuxt3 project
-- [] Create a WordPress project
-- [] Nuxt3 Directory Structure
-- [] Designing the Home Page
-- [] Designing the Post Page
-- [] Creating Reusable Components
-- [] Making the code reusable using composables
-- [] Deployging to Vercel
+- [ ] Brief introduction to Nuxt3
+- [ ] Brief introduction to WordPress Rest API
+- [x] Create a Nuxt3 project
+- [ ] Create a WordPress project
+- [ ] Nuxt3 Directory Structure
+- [ ] Designing the Home Page
+- [ ] Designing the Post Page
+- [ ] Creating Reusable Components
+- [ ] Making the code reusable using composables
+- [ ] Deployging to Vercel
 
 ## Nuxt3
 
